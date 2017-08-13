@@ -2,6 +2,7 @@
 
 Run test:
 
-$ rspec
+$ bundle exec rspec
 
- 
+## Testing with Minitest
+ruby {filename}
